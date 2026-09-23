@@ -1,0 +1,6 @@
+{
+  "name": "Dhariya Primary School - Library Register",
+  "description": "ધારિયા પ્રાથમિક શાળા, તા. હાલોલ, જિ. પંચમહાલ - ધોરણ ૧ થી ૮ ના બાળકો માટે પુસ્તકાલય વાંચન અને પુસ્તક વિતરણ રજીસ્ટર",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
